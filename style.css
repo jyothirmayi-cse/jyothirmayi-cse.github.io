@@ -27,3 +27,27 @@ h2 {
 ul {
     list-style-type: square;
 }
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#projects ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+#projects a {
+  color: #2563eb;
+  font-weight: 500;
+}
+
+#projects a:hover {
+  text-decoration: underline;
+}
