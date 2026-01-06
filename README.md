@@ -16,13 +16,6 @@ A personal portfolio website showcasing my skills, projects, and contact details
 
 ---
 
-### 🎉 College Event Landing Page
-🔗 https://jyothirmayi-cse.github.io/event-landing/
-
-A responsive event landing page created using HTML and CSS for a college technical fest.
-
----
-
 ### 📝 To-Do List Web App
 🔗 https://jyothirmayi-cse.github.io/todo-app/
 
@@ -36,6 +29,12 @@ A functional To-Do List application built using HTML, CSS, and JavaScript.
 - Tasks persist after page refresh
 
 ---
+
+### 🎉 College Event Landing Page
+🔗 https://jyothirmayi-cse.github.io/event-landing-page/
+
+A responsive event landing page created using HTML and CSS for a college technical fest.
+
 
 ## 🔹 Skills
 
