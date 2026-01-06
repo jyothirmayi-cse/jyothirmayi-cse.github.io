@@ -1,4 +1,4 @@
-# Jyothirmayi | Front-End Developer
+# Jyothirmayi | Front-End Web Developer
 
 👋 Hi! I am Jyothirmayi, a B.Tech 1st year Computer Science Engineering student at KL University.
 
@@ -15,6 +15,12 @@ I enjoy building clean, responsive, and user-friendly websites while continuousl
 A personal portfolio website showcasing my skills, projects, and contact details.
 
 ---
+
+## 🔹 Education
+
+B.Tech – Computer Science Engineering  
+KL University | 2025 – 2029
+
 
 ### 📝 To-Do List Web App
 🔗 https://jyothirmayi-cse.github.io/todo-app/
